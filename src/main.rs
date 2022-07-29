@@ -1,3 +1,6 @@
+use solana_sdk::signature::{Keypair, Signer};
+
 fn main() {
-    println!("Hello, world!");
+    let wallet = Keypair::new();
+    println!("{:?}", wallet.pubkey());
 }

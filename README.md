@@ -1,6 +1,6 @@
 # The Plan
 
-- create solana wallet
-- output pubkey
+- create solana wallet: DONE
+- output pubkey: DONE
 - sign and send txn
-- yarn script to create a wallet?
+- script to create a wallet
